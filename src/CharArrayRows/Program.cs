@@ -6,7 +6,6 @@ internal static class Program
 {
     private static void Main()
     {
-        // Чтобы русские буквы корректно вводились и выводились в консоли
         Console.OutputEncoding = Encoding.UTF8;
         Console.InputEncoding = Encoding.UTF8;
 
